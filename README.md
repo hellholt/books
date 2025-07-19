@@ -11,6 +11,7 @@ Books I want to read, intend to read, am putting off reading, am reading, am tak
 
 ### 📕 Recently Finished Reading:
 
+- _Artificial Life: A Report from the Frontier Where Computers Meet Biology_, by Steven Levy (⭐⭐⭐⭐⭐)
 - _The Alignment Problem: Machine Learning and Human Values_, by Brian Christian (⭐⭐⭐⭐⭐)
 - _Man's Search for Meaning_, by Victor E. Frankl (⭐⭐⭐⭐⭐)
 - _Sapiens: A Brief History of Humankind_, by Yuval Noah Harari (⭐⭐⭐⭐⭐)
